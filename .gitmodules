@@ -37,3 +37,6 @@
 [submodule "giflib"]
 	path = giflib
 	url = https://github.com/nesbox/giflib.git
+[submodule "enet"]
+	path = enet
+	url = https://github.com/lsalzman/enet.git
